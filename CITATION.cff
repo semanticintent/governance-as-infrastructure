@@ -1,0 +1,75 @@
+cff-version: 1.2.0
+title: "Governance-as-Infrastructure: From Audit to Runtime"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Shatny
+    given-names: Michael
+    orcid: "https://orcid.org/0009-0006-2011-3258"
+# doi: add the CONCEPT ("all versions") DOI on first Zenodo release — never a per-release version DOI
+repository-code: "https://github.com/semanticintent/governance-as-infrastructure"
+abstract: >-
+  Governance-as-Infrastructure (GaI) proposes that governance — traditionally
+  a document, review, or audit applied after a system has produced something —
+  can be compiled into runtime infrastructure: a Governed Constraint Set that
+  operates before any artifact exists and gates execution on it. Where
+  Methodology-as-Infrastructure compiles how to think and Intent-as-Infrastructure
+  compiles what to reach into, GaI compiles what must be true, with the human
+  reserved at the moment of formalization rather than the moment of consequence.
+  Four properties are required: Pre-execution (before any artifact/agent),
+  Constraint-formalized (an explicit, machine-checkable Governed Constraint Set),
+  Residue-sovereign (the unresolvable residue is a first-class, provable artifact),
+  and Human-as-primitive-at-formalization (execution gates on human-acknowledged
+  residue). The CAL publishing pipeline serves as the primary case study, including
+  the UC-236 incident that turned its implicit governance into an explicit, gating
+  constraint set. GaI is the infrastructure counterpart of Governance-Driven Design
+  and the upstream completion of the as-Infrastructure progression
+  (IaC -> PaC -> MaI -> IaI -> GaI).
+keywords:
+  - governance-as-infrastructure
+  - governance-driven-design
+  - pre-execution-formalization
+  - governed-constraint-set
+  - human-in-the-loop
+  - sovereign-artifacts
+  - semantic-intent
+  - ai-governance
+  - methodology-as-infrastructure
+  - intent-as-infrastructure
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-28"
+references:
+  - type: software
+    title: "Governance-Driven Design (GDD): Formalizing Intent Before the Machine Runs"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20938777"
+    url: "https://github.com/semanticintent/governance-driven-design"
+  - type: software
+    title: "Intent-as-Infrastructure: When the Compiler Is Claude"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20681523"
+    url: "https://github.com/semanticintent/intent-as-infrastructure"
+  - type: software
+    title: "Methodology-as-Infrastructure: From Framework to Runtime"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.18946631"
+    url: "https://github.com/semanticintent/methodology-as-infrastructure"
+  - type: software
+    title: "The Synthesis Gate: What Makes a Workflow Agentic"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.20684283"
+  - type: software
+    title: "Semantic Intent as Single Source of Truth"
+    authors:
+      - family-names: Shatny
+        given-names: Michael
+    doi: "10.5281/zenodo.17114972"
