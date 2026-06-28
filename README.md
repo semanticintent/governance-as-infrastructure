@@ -63,9 +63,9 @@ Both terminate, upstream, at governance. **GDD is the discipline (the verb); GaI
 ## Related Work
 
 - [Governance-Driven Design (GDD)](https://doi.org/10.5281/zenodo.20938777) — the discipline GaI is the infrastructure counterpart of
-- [Intent-as-Infrastructure: When the Compiler Is Claude](https://doi.org/10.5281/zenodo.20681523) — the preceding paradigm in the progression
+- [Intent-as-Infrastructure: When the Compiler Is Claude](https://doi.org/10.5281/zenodo.20681522) — the preceding paradigm in the progression
 - [Methodology-as-Infrastructure: From Framework to Runtime](https://doi.org/10.5281/zenodo.18946630) — the first paradigm in the progression
-- [The Synthesis Gate: What Makes a Workflow Agentic](https://doi.org/10.5281/zenodo.20684283) — the human-judgment node, at the moment of consequence
+- [The Synthesis Gate: What Makes a Workflow Agentic](https://doi.org/10.5281/zenodo.20684282) — the human-judgment node, at the moment of consequence
 - [Semantic Intent as Single Source of Truth](https://doi.org/10.5281/zenodo.17114971) — governance as a primitive, established before the term trended
 
 ## License

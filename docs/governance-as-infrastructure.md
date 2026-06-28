@@ -173,13 +173,13 @@ The progression is complete on both axes. Methodology became a runtime. Intent b
 
 [2] Shatny, M. (2026). *Methodology-as-Infrastructure: From Framework to Runtime.* Zenodo. DOI: 10.5281/zenodo.18946630
 
-[3] Shatny, M. (2026). *Intent-as-Infrastructure: When the Compiler Is Claude.* Zenodo. DOI: 10.5281/zenodo.20681523
+[3] Shatny, M. (2026). *Intent-as-Infrastructure: When the Compiler Is Claude.* Zenodo. DOI: 10.5281/zenodo.20681522
 
 [4] Shatny, M. (2025). *Semantic Intent as Single Source of Truth.* Zenodo. DOI: 10.5281/zenodo.17114971
 
-[5] Shatny, M. (2026). *The Synthesis Gate: What Makes a Workflow Agentic.* Zenodo. DOI: 10.5281/zenodo.20684283
+[5] Shatny, M. (2026). *The Synthesis Gate: What Makes a Workflow Agentic.* Zenodo. DOI: 10.5281/zenodo.20684282
 
-[6] Shatny, M. (2026). *CAL — Cascade Analysis Language.* Zenodo. DOI: 10.5281/zenodo.18905193
+[6] Shatny, M. (2026). *CAL — Cascade Analysis Language.* Zenodo. DOI: 10.5281/zenodo.18905192
 
 ---
 

@@ -52,7 +52,7 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20681523"
+    doi: "10.5281/zenodo.20681522"
     url: "https://github.com/semanticintent/intent-as-infrastructure"
   - type: software
     title: "Methodology-as-Infrastructure: From Framework to Runtime"
@@ -66,7 +66,7 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.20684283"
+    doi: "10.5281/zenodo.20684282"
   - type: software
     title: "Semantic Intent as Single Source of Truth"
     authors:
