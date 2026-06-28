@@ -59,7 +59,7 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.18946631"
+    doi: "10.5281/zenodo.18946630"
     url: "https://github.com/semanticintent/methodology-as-infrastructure"
   - type: software
     title: "The Synthesis Gate: What Makes a Workflow Agentic"
@@ -72,4 +72,4 @@ references:
     authors:
       - family-names: Shatny
         given-names: Michael
-    doi: "10.5281/zenodo.17114972"
+    doi: "10.5281/zenodo.17114971"
