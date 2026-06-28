@@ -1,7 +1,7 @@
 # Governance-as-Infrastructure: From Audit to Runtime
 
-<!-- DOI badge: add on first Zenodo release — use the CONCEPT ("all versions") DOI, never a per-release version DOI -->
-[![DOI](https://img.shields.io/badge/DOI-pending%20release-lightgrey.svg)](https://zenodo.org)
+<!-- DOI: concept ("all versions") DOI — always resolves to the latest release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21010922.svg)](https://doi.org/10.5281/zenodo.21010922)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2011--3258-brightgreen?logo=orcid)](https://orcid.org/0009-0006-2011-3258)
 
 **Author:** Michael Shatny ([ORCID](https://orcid.org/0009-0006-2011-3258))

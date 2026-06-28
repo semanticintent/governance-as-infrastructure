@@ -6,7 +6,7 @@ authors:
   - family-names: Shatny
     given-names: Michael
     orcid: "https://orcid.org/0009-0006-2011-3258"
-# doi: add the CONCEPT ("all versions") DOI on first Zenodo release — never a per-release version DOI
+doi: "10.5281/zenodo.21010922"  # concept DOI — always resolves to the latest version
 repository-code: "https://github.com/semanticintent/governance-as-infrastructure"
 abstract: >-
   Governance-as-Infrastructure (GaI) proposes that governance — traditionally

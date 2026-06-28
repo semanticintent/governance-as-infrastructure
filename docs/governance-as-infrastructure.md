@@ -1,7 +1,7 @@
 # Governance-as-Infrastructure: From Audit to Runtime
 
 **Author:** Michael Shatny ([ORCID: 0009-0006-2011-3258](https://orcid.org/0009-0006-2011-3258))
-**DOI:** *minted on first Zenodo release — cite via the concept ("all versions") DOI*
+**DOI:** [10.5281/zenodo.21010922](https://doi.org/10.5281/zenodo.21010922) (concept DOI — always resolves to the latest version)
 **License:** MIT
 
 ---
